@@ -1,6 +1,5 @@
 package org.example;
 
-
 public class UserController {
     private final UserService userService;
 
